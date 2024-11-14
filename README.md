@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Tran Xuan Dat
-- 🌱 I’m currently learning nmlt
-- ⚡ Fun fact:  3' National Chemistry
+Tran Xuan Dat
+- I’m currently learning nmlt
+- 3' National Chemistry
+- 18 tuoi be gay sung trau...
 
-<!---
-DATKINGKHUNG/DATKINGKHUNG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
